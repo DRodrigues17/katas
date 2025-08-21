@@ -1,4 +1,4 @@
-package iniciante.src;
+package iniciante;
 /*
 * 🚀 Desafio 4: Maior e Menor Número
 

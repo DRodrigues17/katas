@@ -1,4 +1,4 @@
-package iniciante.src;/*
+package iniciante;/*
 * 🚀 Desafio 1: FizzBuzz Clássico
 
 Descrição:

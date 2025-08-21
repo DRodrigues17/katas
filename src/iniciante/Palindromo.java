@@ -1,4 +1,4 @@
-package iniciante.src;/*
+package iniciante;/*
 * 🚀 Desafio 2: Palíndromo
 
 Descrição:
